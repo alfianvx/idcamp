@@ -1,5 +1,5 @@
 Pondasi sebuah Website:
-1.  HTML        = Markup Language yang menentukan struktur atau kerangka website.
+1.  HTML        = Markup Language untuk membangun struktur atau kerangka website.
 2.  CSS         = Declarative Language yang bergfungsi untuk memberikan styling pada website.
 3.  JavaScript  = Bahasa Pemograman yang di dukung oleh browser untuk memberikan interaktivitas pada Halaman Web.
 
