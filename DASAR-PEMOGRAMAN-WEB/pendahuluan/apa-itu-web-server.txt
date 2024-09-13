@@ -1,0 +1,21 @@
+Web server adalah sebuah software yang dapat menghubungkan sebuah komputer dengan komputer lain, tetapi
+bisa juga di sebut sebuah hardware karena pada dasarnya web server juga merupakan sebuah komputer.
+
+Jika di sebutkan dari sisi hardware, web server merupakan komputer dengan spesifikasi yang di sesuaikan
+berdasarkan layanan yang di gunakan, jika kita memiliki website yang mempunyai banyak file misal,
+maka kita akan membutuhkan web server dengan penyimpanan yang besar dan juga cepat.
+
+Jika di sebutkan dari sisi software, web server merupakan sebuah komputer yang menjalankan sebuah program
+agar dapat melayani (request atau response) data melalui jenis protokol beranama HTTP.
+
+Protokol HTTP merupakan protokol standar dalam melakukan transaksi data di browser.
+
+DNS / Domain Name Server adalah sistem yang menerjemahkan Domain Name menjadi IP Address.
+
+========== CARA DNS BEKERJA ==========
+1. Jika Ada 
+User Request Browser => Komputer mencarikan IP Address berdasarkan nama Domain => IP ADA => DONE.
+
+2. Jika tidak ada
+User Request Browser => Komputer mencarikan IP Address berdasarkan nama Domain => IP TIDAK ADA =>
+Periksa DNS Cache => IP ADA => DONE.

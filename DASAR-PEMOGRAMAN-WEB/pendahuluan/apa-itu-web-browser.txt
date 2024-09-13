@@ -1,0 +1,9 @@
+Web Browser adalah program yang menampilkan website.
+
+========== CARA WEB BROWSER BEKERJA ==========
+
+User mengakses Website dengan URL => Browser membuat request ke Server => Server mengirimkan response berisi
+konten konten yang di butukhan website (html, css, js, dll). Proses ini bisa di sebut sebagai Request Response
+Cycle.
+
+Client dan web server berkomunikasi menggunakan protokol HTTP.

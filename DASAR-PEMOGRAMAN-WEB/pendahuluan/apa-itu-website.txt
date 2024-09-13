@@ -1,0 +1,9 @@
+Halaman Web adalah halaman tunggal yang menampilkan informasi, 
+baik berupa teks, gambar ataupaun media lain.
+
+Website merupakan sebuah kumpulan dari halaman tersebut.
+
+========== SEJARAH SINGKAT WEBSITE ==========
+Website pertama kali di temukan oleh Tim Berners-Lee pada tahun 1989 ketika ia bekerja di CERN (physic labolatory).
+Pada awalnya website di buat untuk berbagi informasi secara otomatis antar ilmuwan di universitas dan 
+lembaga seluruh dunia.

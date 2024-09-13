@@ -1,0 +1,19 @@
+Internet (Interconnection Network)
+
+Jika di analogikan dengan kehidupan dunia nyata, internet adalah sebuah jalan yang
+memberikan kita akses untuk mencapai tujuan. Contohnya jika kita ingin menimba ilmu,
+maka sekolah adalah tujuan kita. Kita akan di berikan akses ke kelas karena sudah di izinkan pihak sekolah
+untuk menimba ilmu dengan guru.
+
+Internet memberikan kemampuan kepada user untuk meminta (request) data kepada website 
+yang akan di respon oleh server dengan data. Sebagai contoh, ketika kita ingin mencari sebuah
+artikel di google, maka kita akan meminta (request) kepada google untuk mencarikan sebuah artikel,
+kemudian google akan memberikan response dari server kepada user dengan sebuah data.
+
+========== TAHAPAN SINGKAT INTERNET BEKERJA ==========
+
+        Komputer => Network Switch => Modem => ISP
+
+Komputer        =>  Network Switch  = Komputer user akan terhubung dengan Komputer lain [LINGKUP LOKAL]
+Network Switch  =>  Moden           = Network Switch terhubung dengan modem (infrastruktur telepon) / penyedia jaringan
+Moden           =>  ISP             = Modem harus terhubung ke ISP supaya bisa mengakses / berkomunikasi dengan ISP yang lain [LINGKUP GLOBAL]
