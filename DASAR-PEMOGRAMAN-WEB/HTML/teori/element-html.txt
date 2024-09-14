@@ -1,0 +1,11 @@
+Elemen HTML adalah bagian dari HTML untuk mendefinisikan konten-konten yang di tampilkan
+Contoh : Elemen Heading dan Paragraf.
+
+Perbedaan konten website ketika menggunakan elemen HTML dan tidak adalah :
+1.  Browser akan mengenali konten secara jelas ketika di berikan elemen html, element HTML
+    sudah di berikan default style oleh browser sehingga meningkatkan kualitas konten yang di render.
+2.  Browser tidak akan mengenali konten dan konten akan di taruh ke dalam body saja, 
+    hal ini akan berpengaruh dengan tingkat keterbacaan konten ketika di render.
+
+Struktur elemen HTML memiliki dua hal: Nama Elemen & Isi Elemen (konten).
+Elemen dalam HTML juga bisa memiliki elemen lagi di dalam, hal ini di sebut sebagai child elemen.
