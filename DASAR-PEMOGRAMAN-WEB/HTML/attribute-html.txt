@@ -1,0 +1,5 @@
+Attribute dalam HTML dapat memberikan infomasi tambahan untuk element. Informasi ini
+tidak akan di tampilkan dalam halaman web, tetapi akan menentukan perilaku elementnya.
+
+Dalam attribute terdapat dua item yaitu nama attribute dan isi attribute.
+Contoh: nama-attribute="isi-attribute"
